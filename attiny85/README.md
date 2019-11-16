@@ -6,8 +6,8 @@ paleći LED diodu na pločici prenese proizvoljnu poruku [morzeovom azbukom](htt
 ## Gde nabaviti Digispark ATtiny85
 
 Sam mikrokontroler ATtiny85 nije skup (oko 100 dinara). Digispark ATtiny85
-je zapravo ovaj mikrokontroler na pločici na kojoj se pore samog čipa
-kontrolera nalazi dodatne komponente koje omogućavaju napajanje i
+je zapravo ovaj mikrokontroler na pločici na kojoj se pored samog čipa
+kontrolera nalaze i dodatne komponente koje omogućavaju napajanje i
 programiranje preko USB-a. Možete ga kupiti na [AliExpress](https://www.aliexpress.com/wholesale?SearchText=Digispark+ATtiny85) ili
 [eBay](https://www.ebay.com/sch/i.html?_nkw=digispark+attiny85&_sacat=0) za cenu 
 koja se kreće od 100-300 dinara u zavisnosti od varijante (postoji puno
