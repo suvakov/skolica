@@ -12,6 +12,7 @@ print """
 
 """
 
+# Turn CAPS LOCK on
 s="ABCDEFGHIJKLMNOPQRSTUVWXYZ"
 tp=0
 np=0
