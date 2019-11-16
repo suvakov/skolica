@@ -108,7 +108,9 @@ Ja sam ovo koristio kao mozgalicu za klince. Možda nađete drugačiju upotrebu?
 
 ## Šta dalje?
 
-...
+Ovo je samo banalna demonstracija kako se za malo novaca i vremena može isprogramirati ovaj mikrokontroler. On ima 6 pinova koji se mogu koristiti kao ulazi i izlazi. Igrom slučaja na prvi pin je nakačena LED dioda na pločici pa smo to iskoristili, ali lako je moguće na ostale pinove nakačiti bilo šta. Može da pokreće servo, step motore, očitava razne senzore i u zavisnosti od rezultata deluje. 
+
+Ukoliko vam je ovo zanimljivo lako možete doći do resursa na netu za ovaj ili slične čipove / razvojne pločice. Prvi naredni korak može biti da pročitate ovaj tutorijal [http://digistump.com/wiki/oak?redirect=1](http://digistump.com/wiki/oak?redirect=1). Pametne mašine poput onih u Dokovoj kući na početku "Back to the Future" su samo na korak od vas...
 
 
 
