@@ -33,7 +33,7 @@ uneti: "http://digistump.com/package_digistump_index.json" i kliknuti "OK"
 ## Kako isprogramirati mikrokontroler
 
 Da biste isprogramirali kontroler treba da ispratite sledeće korake:
-* unesete kod u glavni prozor
+* unesete program u glavni prozor
 * kliknete na Sketch -> Verify/Compile
 * ako nema grešaka kliknite na Sketch -> Upload
 * u narednih 60 sekundi uključite Digispark ATtiny85 u USB port
