@@ -70,7 +70,6 @@ std::string GetMorseForAlfaNum(const char c) {
 }
 
 void Display(const char c) {
-    //std::cout << c;
     if (c == ' ') digitalWrite(PIN, LOW);        
     else digitalWrite(PIN, HIGH);
     delay(c == '.' ? DIT_DELAY : DOT_DELAY);
