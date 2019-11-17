@@ -106,7 +106,7 @@ Ovaj program iskopirate u Arduino IDE, kliknete na Sketch -> Verify/Compile, a z
 
 Ja sam ovo koristio kao mozgalicu za klince. Možda nađete drugačiju upotrebu? Može biti interesantno kao poklon dragoj osobi.
 
-**Napomena**: Gore navedeni postupak ima manu pošto je ovim takozvanim hardkodiranjem poruke program veliki i za duže poruke može prekoračiti dostupnu memoriju, a i potrebno je koristiti python kao među korak. Uradio sam ovao pošto je meni lično bilo najbrže. [Miroslav Ristić](https://github.com/rikelme) je napravio C verziju programa koji radi isto. Umesto pythona i kopiranja, iskopirajte sadržaj [main.cpp](main.cpp) direktno u Aduino IDE.
+**Napomena**: Gore navedeni postupak ima manu pošto je ovim takozvanim hardkodiranjem poruke program veliki i za duže poruke može prekoračiti dostupnu memoriju, a i potrebno je koristiti python kao među korak. Uradio sam ovao pošto je meni bilo najbrže. [Miroslav Ristić](https://github.com/rikelme) je napravio *C++* verziju programa koji radi isto ali za proizvoljnu poruku. Umesto pythona i kopiranja, iskopirajte sadržaj [main.cpp](main.cpp) direktno u Aduino IDE i flešujte uređaj.
 
 ## Šta dalje?
 
